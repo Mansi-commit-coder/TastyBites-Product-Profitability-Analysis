@@ -1,3 +1,4 @@
+<img width="1390" height="740" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/9f11f5f3-a732-47b1-adc5-9de9cc0ec74f" />
 # 🍔 TastyBites – Product Profitability & Pricing Strategy Analysis
 
 ## 📌 Project Overview
